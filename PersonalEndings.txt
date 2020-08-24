@@ -1,0 +1,17 @@
+-	Primary Active 1S|Secondary Active 3S
+ς	Primary Active 2S|Secondary Active 2S
+ι	Primary Active 3S
+μεν	Primary Active 1P|Secondary Active 1P
+τε	Primary Active 2P|Secondary Active 2P
+νσι	Primary Active 3P
+μαι	Primary Passive 1S
+σαι	Primary Passive 2S
+ται	Primary Passive 3S
+μεθα	Primary Passive 1P|Secondary Passive 1P
+σθε	Primary Passive 2P|Secondary Passive 2P
+νται	Primary Passive 3P
+ν	Secondary Active 1S, 3P
+μήν	Secondary Passive 1S
+σο	Secondary Passive 2S
+το	Secondary Passive 3S
+ντο	Secondary Passive 3P

@@ -1,0 +1,93 @@
+ὁ 	Art. NSM
+ἡ 	Art. NSF
+τό 	Art. N/ASN
+τοῦ 	Art. GSM/N
+τῆς 	Art. GSF
+τῷ 	Art. DSM/N
+τῇ 	Art. DSF
+τόν 	Art. ASM
+τήν 	Art. ASF
+οἱ 	Art. NPM
+αἱ 	Art. NPF
+τά 	Art. N/APN
+τῶν 	Art. GPM/F/N
+τοῖς 	Art. DPM/N
+ταῖς 	Art. DPF
+τούς 	Art. APM
+τάς 	Art. APF
+Nouns ντ + σ	ντ + σ → σ
+Nouns ending in -ς	1st/2nd: NSM  GSF  APF |3rd: NSM
+Nouns with no ending	1st/2nd: NSF |3rd: NSF/N ASN
+Nouns ending in -υ	1st/2nd: GSM/N |3rd:
+Nouns ending in -ος	1st/2nd:  |3rd: GSM/F/N
+Nouns ending in -ι	1st/2nd: DSM/F/N  NPM/F |3rd: DSM/F/N
+Nouns ending in -ν	1st/2nd: NSN ASM/F/N |3rd: ASM/F alt.
+Nouns ending in -α	1st/2nd: NPN  APN |3rd: ASM/F|  NPN  APN
+Nouns ending in -ες	1st/2nd:  |3rd: NPM/F
+Nouns ending in -ων	1st/2nd: GPM/F/N |3rd: GPM/F/N
+Nouns ending in -ις	1st/2nd: DPM/F/N |3rd:
+Nouns ending in -σι	1st/2nd: |3rd: DPM/F/N
+Nouns ending in -υς	1st/2nd: APM |3rd:
+Nouns ending in -ας	1st/2nd:  |3rd: APM/F
+Noun Rule #1 (declensions)	Declensions: |1st=-α -η |2nd=-ο |3rd=consonant
+Noun Rule #2 (neuter)	Neuter Nominative = Accusative
+Noun Rule #3 |(neuter plural)	Almost all NPN APN = -α
+Noun Rule #4 (DS)	In the Dative Singular, |the ι subscripts if possible.
+Noun Rule #5 (vowels)	Vowels often ablaut.
+Noun Rule #6 (GD MN)	In the Genitive and Dative, | Masculine = Neuter
+Noun Rule #7 (Square of Stops)	Labials: π  β  φ + σ → ψ|Velars: κ  γ  χ  + σ → ξ|Dentals:  τ  δ  θ  + σ → σ
+Noun Rule #8 (τ)	-τ cannot stand
+οὗτος|function and paradigm	  demonstrative pronoun: "this"|οὗτος  αὗτη τοῦτο|τούτου ταύτης τούτου|τούτῳ ταύτῃ τούτῳ
+ἐκεῖνος|function and paradigm	  demonstrative pronoun: "that"|ἐκεῖνος ἐκείνη ἐκεῖνο|ἐκείνου ἐκείνης ἐκείνου
+ὃς|function and paradigm	  relative pronoun: "who/which/that"|ὃς ἣ ὃ|οὗ ἧς οὗ
+Present (Primary) Active|paradigm & true endings	λύω, λύεις, λύει|λύομεν, λύετε, λύουσι(ν)| (-, -ς, -ι|-μεν, -τε, -νσι)
+Contract Rule #1	  οε / εο / οο → ου
+Contract Rule #2	  εε → ει
+Contract Rule #3	  _ + ο/ω → ω
+Contract Rule #4	  α + ε → α
+Contract Rule #5	  ε + α → η
+Contract Rule #6	  οει → οι
+Contract Rule #7	  Diphthongs:|a. Match? Simplify!|b. No match? contract,|drop υ| subscript ι
+Contract Rule #8	  Contracts use endings from PAI form
+Meaning, paradigm οἶδα	  I know, understand|οἶδα, οἶδας, οἶδε(ν)|οἲδαμεν, οἲδατε, οἲδασιν
+Present (Primary) Passive|paradigm & true endings	λύομαι, λύῃ, λύεται|λυόμεθα, λύεσθε, λύονται| (μαι, σαι, ται,|μεθα, σθε, νται)
+Deponent Verb	 M/P in form|active in meaning|(lexical form is M/P: -ομαι)
+Master Verb Chart:|Present Active	  - P - ο/ε PA λύω
+Master Verb Chart:|Present Middle/Passive	- P - ο/ε PP λύομαι
+Master Verb Chart:|Future Active	  - FA σ ο/ε PA λύσω
+Master Verb Chart:|Future Middle	  - FA σ ο/ε PP πορεύσομαι
+Future εἰμί 	  Middle Form|ἒσομαι, ἒσῃ, ἒσται|ἐσόμεθα, ἒσεσθε, ἒσονται
+Def. Contract Vowel	Stem ending with α, ε, ο
+Contract vowel before|tense formative	 lengthens|α/ε → η|ο → ω|always gets accent!
+Connecting Vowel|in Indicative Voice	 ο for endings μ- / ν-|ε for anything else
+Pattern 1 Verbs	 Verbs where |root = pres. tense stem|  = fut. tense stem|Stems end in: 1a:-ι / -υ| 1b: contract vowels -α / -ε / -ο| 1c: stops
+Liquid Verbs	 Stem ends in:|-λ, -μ, -ν, -ρ
+Intervocalic σ	 σ standing between two vowels|often drops out|e.g., fut. tense form. for liquid vbs
+ἔρχομαι	  Pres: *ερχ|Impf: *ελεσθ| I come, go
+ἐλεύσομαι	 Impf: I was going|Pres: *ερχ|Impf: *ελεσθ
+λέγω	  I say|Pres: *λεγ|Impf: *ερ
+ἐρῶ	  Impf: I was saying|Pres: *λεγ|Impf: *ερ
+ὁράω	  I see|Pres: *ορα|Impf: *οπ
+ὄψομαι	  Impf: I was seeing|Pres: *ορα|Impf: *οπ
+Master Verb Chart:|Liquid Future Active	  - FA εσ ο/ε PA κρινῶ
+Master Verb Chart:|Liquid Future Middle	  - FA εσ ο/ε PP κρινοῦμαι
+Imperfect (Secondary) Active|paradigm & true endings  	ἔλυον, ἔλυες, ἔλυε|ἐλύομεν, ἐλύετε, ἔλυον|(ν, ς, -, μεν, τε, ν)
+Imperfect (Secondary) Passive|paradigm & true endings  	ἐλυόμην, ἐλύου,ἐλύετο|ἐλυόμεθα, ἐλύεσθε, ἐλύοντο|(μην, σο, το, μεθα, σθε, ντο)
+Impf. εἰμί	I was|ἤμην, ἦς, ἦν|ἦμην, ἦτε, ἦσαν
+Master Verb Chart:|Imperfect Active	  ε P - ο/ε PA ἔλυον
+Master Verb Chart:|Imperfect Middle/Passive	ε P - ο/ε PP ἐλυόμην
+Master Verb Chart:|Aorist Active	ε AA σα - 2A ἔλuσα
+Master Verb Chart:|Aorist Middle	ε AA σα - 2P ἐλυσάμην
+Master Verb Chart:|Liquid Aorist Active	ε AA α - 2A ἔκρινα
+Master Verb Chart:|2nd Aorist Active	ε AA - ο/ε 2A ἔλιπον
+Master Verb Chart:|2nd Aorist Middle	ε AA - ο/ε 2P ἐλιπόμην
+Master Verb Chart:|Perfect Active	λε PfA κα - 1A λέλυκα
+Master Verb Chart:|2nd Perfect Active	λε PfA α - 1A γέγονα
+Master Verb Chart:|Perfect Mid/Pass	λε PfP - - 2A λέλυμαι
+Master Verb Chart:|Aorist Passive	ε AP θη - 2A ἐλύθην
+Master Verb Chart:|2nd Aorist Passive	ε AP η - 2A ἐγράφην
+Master Verb Chart:|Future Passive	- AP θησ ο/ε 1P λυθήσομαι
+Master Verb Chart:|2nd Future Passive	- AP ησ ο/ε 1P γραφήσομαι
+Signs of Future Tense	σ tense formative;|liquid εσ contracts | with PA ending + circumflex
+Signs of Aorist Tense	σα tense formative;|Liquid α|Passive: θη / η|(2nd Aor = Impf w/ Aor stem)
+Signs of Perfect Tense	reduplication|Pf Active = κα t.f.|2nd Pf A = α tense formative

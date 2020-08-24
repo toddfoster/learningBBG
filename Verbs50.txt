@@ -1,0 +1,90 @@
+ἀγαπάω	I love|*αγαπα
+ἄγω	I lead|*αγ|AA=ἤγαγον
+αἴρω	I raise|*αρ
+αἰτέω	I ask|*αἰτε
+ἀκολουθέω	I follow|*ακολουθε
+ἀκούω	I hear|*ακου|PfA=ἀκήκοα
+ἀναβαίνω	I go up|*αναβα = ἀνα + *βαίνv (*βα)
+ἀνίστημι	I rise/raise|*ανιστα
+ἀνοίγω	I open|*ανοιγ|ΑΑ=ἀνέωξα|AP=ἀνεώχθην
+ἀπέρχομαι 	I depart|*απερχ
+ἀποθνῄσκω 	I die|*αποθανα
+ἀποκρίνομαι	I answer|*αποκριν|AP=ἀπεκρίθην
+ἀποκτείνω	I kill|*αποκτεν
+ἀπόλλυμι	I destroy/kill|*απολ|PfA=ἀπόλωλα
+ἀπολύω	I release|*απολυ
+ἀποστέλλω	I send|*αποστελ
+ἄρχω	I rule; Mid:begin|*αρχ
+ἀσπάζομαι	I greet|*ἀσπαδ
+ἀφίημι	I let go|*αφη
+βάλλω	I throw|*βαλ|AA=ἔβαλον PfA=βέβληκα|PfP=βέβλημαι AP=ἐβλήθην
+βαπτίζω	I baptize|*βαπτδ
+βλέπω	I see|*βλεπ
+γεννάω	I beget|*γεννα
+γίνομαι	I become|*γεν|PfA=γέγονα
+γινώσκω	I know|*γνο
+γράφω	I write|*γραφ
+δεῖ	It is necessary|(Impersonal, 3S)
+δέχομαι	I take, receive|*δεχ
+διδάσκω	I teach|*διδασκ
+δἰδωμι	I give|*δο
+δοκέω	I think, seem|*δοκε
+δοξάζω	I glorify|*δοξαδ
+δύναμαι	I am able|*δυν
+ἐγείρω	I raise up|*εγερ (liquid)|PfP=ἐγήγερμαι
+εἰμί	I am|FA=ἔσομαι|AA=ἤμην
+εἰσέρχομαι	I enter|prep + *ερχ
+ἐκβάλλω	I cast out|prep + *βαλ
+ἐξέρχομαι	I go out|prep + *ερχ
+ἐπερωτάω	I ask|*επερωτα
+ἔρχομαι	I come, go|*ερχ|FA=ἐλεύσομαι|AA=ἦλθον PfA=ἐλήλθυα
+ἐρωτάω	I ask|*ερωτα
+ἐσθίω	I eat|*εσθι, *φαγ|FA=φάγομαι|2AA=ἔφαγον
+εὐαγγελίζω	I bring good news|*ευαγγελιδ
+εὑρίσκω	I find|*εὑρ
+ἔχω	I have|*σεχ|FA=ἕξω  AA=ἕσχον|PfA=ἔσχηκα
+ζάω	I live|*ζα
+ζητέω	I seek|*ζητε
+θέλω	I will, wish/ will|*εθελ
+θεωρέω	I look at|*θεωρε
+ἵστημι	I stand|*στα
+κάθημαι	I sit|prep + *εμ
+καλέω	I call|*καλεϝ|PfA=κέκληκα|PfM=κέκλημαι|AP=ἐκλήθην
+καταβαίνω	I go down|prep + *βαίν
+κηρύσσω	I proclaim|*κηρυγ
+κράζω	I cry out|*κραγ
+κρατέω	I grasp|*κρατε
+κρίνω	I judge|*κριν|PfA=κέκρικα|PfM=κέκριμαι|AP=ἐκρίθην
+λαλέω	I speak|*λαλε
+λαμβἀνω	I take, receive|*λαβ|FA=λήμψομαι  AA=ἔλαβον|PfA=εἴληφα  PFM=εἴλημμαι|AP=ἐλήμφθην
+λέγω	I say|*λεγ, *ερ, *ιπ|FA=ἐρῶ  AA=εἶπον|PfA=εἴρηκα  PfM=εἴρημαι|AP=ἐρρέθην
+μαρτυρέω	I testify|*μαρτθρε
+μέλλω	I am about to|*μελλ
+μένω	I remain|*μεν
+οἶδα	I know|FA=εἰδήσω|AA=ἤδειν
+ὁράω	I see|*ορα, *ϝιδ, *οπ|AA=εἶδον|PfA=ἑώρακα
+ὀφείλω	I owe|*οφειλ
+παραδίδωμι	I entrust|prep + *δο
+παρακαλέω	I call, urge, exhort|prep + *καλεϝ
+πείθω	I persuade|*πειθ
+περιπατέω	I walk around|*περιπατε
+πίνω	I drink|*πι|PfA=πέπωκα|AP=ἐπόθην
+πίπτω	I fall|*πετ|FA=πεσοῦμαι|AA=ἔπεσον|PfA=πέπτωκα
+πιστεύω	Ι believe|*πιστευ
+πληρόω	I fill|*πληρο
+ποιέω	I do / make|*ποιε
+πορεὐομαι	I go|*πορευ|FA=πορεύσομια
+προσέρχομαι	I come|prep + *ερχ
+προσεύχομαι	I pray|*προσευχ|FDep=προσεύξομαι|ADep=προσηυξάμην
+προσκυνέω	I worship|*προσκυνε
+σπείρω	I sow
+συνἀγω	I gather together|*συναγ
+σῴζω	I save|*σωδ
+τηρέω	I keep|*τηρε
+τίθημι	I put|*θε|PfA=τέθεικα|PfMP=τέθειμαι|AP=ἐτέθην
+ὑπάγω	Ι depart|*υπαγ
+ὑπάρχω	I am, exist|*ὑπαρχ|FDep=ὑπάρξομαι|AMDep=ὑπηρξάμην
+φέρω	I carry|FA=οἴσω  AA=ἤνεγκα|PfA=ἐνήνοχα  PFMP=ἐνήνεκμαι|AP=ἠνέχθην
+φημί	I say, affirm|AA=ἔφη
+φοβέομαι	I fear
+χαίρω	I rejoice|*χαρ|FDep=χαρήσομαι

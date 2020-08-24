@@ -1,0 +1,120 @@
+λύω	 PAI 1S|I loose
+λύεις	PAI 2S|You loose
+λύει	PAI 3S|S/he looses
+λύομεν	PAI 1P|We loose
+λύετε	PAI 2P|You (pl) loose
+λύουσι(ν)	PAI 3P|They loose
+λύομαι	 PM/PI 1S|I am loosed
+λύῃ	 PM/PI 2S|You are loosed
+λύεται	 PM/PI 3S|S/he is loosed
+λυόμεθα	 PM/PI 1P|We are loosed
+λύεσθε	PM/PI 2P|You (pl) are loosed
+λύονται	PM/PI 3P|They are loosed
+λύσω	FAI 1S|I loose
+λύσεις	FAI 2S|You loose
+λύσει	FAI 3S|S/he looses
+λύσομεν	 FAI 1P|We loose
+λύσετε	FAI 2P|You (pl) loose
+λύσουσι(ν)	FAI 3P|They loose
+λύσομαι	 FMI 1S|I will loose for self
+λύσῃ	 FMI 2S|You will loose for self
+λύσεται	 FMI 3S|S/he will loose for self
+λυσόμεθα	 FMI 1P|We will loose for self
+λύσεσθε	FMI 2P|You (pl) will loose for self
+λύσονται	FMI 3P|They will loose for self
+λυθήσομαι	FPI 1S|I will be loosed
+λυθήσῃ	FPI 2S|You will be loosed
+λυθήσεται	FPI 3S|S/he will be loosed
+λυθησόμεθα	FPI 1P|We will be loosed
+λυθήσεσθε	FPI 2P|You (pl) will be loosed
+λυθήσονται	FPI 3P|They will be loosed
+γραφήσομαι	2FPI 1S|I will be written
+γραφήσῃ	2FPI 2S|You will be written
+γραφήσεται	2FPI 3S|S/he will be written
+γραφησόμεθα	2FPI 1P|We will be written
+γραφήσεσθε	2FPI 2P|You (pl) will be written
+γραφήσονται	2FPI 3P|They will be written
+κρινῶ	LFAI 1S|I will judge
+κρινεῖς	LFAI 2S|You will judge
+κρινεῖ	LFAI 3S|S/he will judge
+κρινοῦμεν	LFAI 1P|We will judge
+κρινεῖτε	LFAI 2P|You (pl)  will judge
+κρινοῦσι(ν)	LFAI 3P|They will judge
+κρινοῦμαι	LFMI 1S|I will judge for self
+κρινῇ	LFMI 2S|You will judge for self
+κρινεῖται	LFMI 3S|S/he will judge for self
+κρινοῦμεθα	LFMI 1P|We will judge for self
+κρινεῖσθε	LFMI 2P|You (pl) will judge for self
+κρινοῦνται	LFMI 3P|They will judge for self
+λέλυκα	PfAI 1S|I have loosed
+λέλυκας	PfAI 2S|You have loosed
+λέλυκε(ν)	PfAI 3S|S/he has loosed
+λελύκαμεν	PfAI 1P|We have loosed
+λελύκατε	PfAI 2P|You (pl) have loosed
+λελύκασι(ν)	PfAI 3P|They have loosed
+λέλυμαι	PfM/PI 1S|I have loosed for self
+λέλυσαι	PfM/PI 2S|You have loosed for self
+λέλυται	PfM/PI 3S|S/he has loosed for self
+λελυόμεθα	PfM/PI 1P|We have loosed for self
+λέλυσθε	PfM/PI 2P|You (pl) have loosed for self
+λέλυνται	PfM/PI 3P|They have loosed for self
+γέγονα	2PfAI 1S|I have known
+γέγονας	2PfAI 2S|You have known
+γέγονε	2PfAI 3S|S/he has known
+γεγόναμεn	2PfAI 1P|We have known
+γεγόνατε	2PfAI 2P|You (pl) have known
+γεγὀνασι(ν)	2PfAI 3P|They have known
+ἒλυον	ImpfAI 1S|I was loosing
+ἒλυες	ImpfAI 2S|You were loosing
+ἒλυε	ImpfAI 3S|S/he was loosing
+ἐλύομεν	ImpfAI 1P|We were loosing
+ἐλύετε	ImpfAI 2P|You (pl) were loosing
+ἒλυον	ImpfAI 3P|They were loosing
+ἐλυόμην	ImpfM/PI 1S|I was loosed
+ἐλύου	ImpfM/PI 2S|You were loosed
+ἐλύετο	ImpfM/PI 3S|S/he was loosed
+ἐλυόμεθα	ImpfM/PI 1P|We were loosed
+ἐλύεσθε	ImpfM/PI 2P|You (pl) were loosed
+ἒλυοντο	ImpfM/PI 3P|They were loosed
+ἒλυσα	AAI 1S|I loosed
+ἒλυσας	AAI 2S|You loosed
+ἒλυσε	AAI 3S|S/he loosed
+ἐλύσαμεν	AAI 1P|We loosed
+ἐλύσατε	AAI 2P|You (pl) loosed
+ἒλυσαν	AAI 3P|They loosed
+ἐλυσάμην	AMI 1S|I loosed for self
+ἐλύσω	AMI 2S|You loosed for self
+ἐλύσατο	AMI 3S|S/he loosed for self
+ἐλυσάμεθα	AMI 1P|We loosed for self
+ἐλύσασθε	AMI 2P|You (pl) loosed for self
+ἐλύσαντο	AMI 3P|They loosed for self
+ἒλιπον	2AAI 1S|I left
+ἒλιπες	2AAI 2S|You left
+ἒλιπε	2AAI 3S|S/he left
+ἐλίπομεν	2AAI 1P|We left
+ἐλίπετε	2AAI 2P|You (pl) left
+ἒλιπον	2AAI 3P|They left
+ἐλιπόμην	2AMI 1S|I left for self
+ἐλίπου	2AMI 2S|You left for self
+ἐλίπετο	2AMI 3S|S/he left for self
+ἐλιπόμεθα	2AMI 1P|We left for self
+ἐλίπεσθε	2AMI 2P|You (pl) left for self
+ἐλίποντο	2AMI 3P|They left for self
+ἒκρινα	LAAI 1S|I judged
+ἒκρινας	LAAI 2S|You judged
+ἒκρινε	LAAI 3S|S/he judged
+ἐκρίναμεν	LAAI 1P|We judged
+ἐκρίνατε	LAAI 2P|You (pl) judged
+ἒκριναν	LAAI 3P|They judged
+ἐλύθην	API 1S|I was loosed
+ἐλύθης	API 2S|You were loosed
+ἐλύθη	API 3S|S/he was loosed
+ἐλύθημεν	API 1P|We were loosed
+ἐλύθητε	API 2P|You (pl) were loosed
+ἐλύθησαν	API 3P|They were loosed
+ἐγράφην	2API 1S|I was written
+ἐγράφης	2API 2S|You were written
+ἐγράφη	2API 3S|S/he was written
+ἐγράφημεν	2API 1P|We were written
+ἐγράφητε	2API 2P|You (pl) were written
+ἐγράφησαν	2API 3P|They were written
