@@ -5,7 +5,7 @@ I went to seminary in the '90's. I wasn't very clear on why I was there. But as 
 
 I've continued the journey over the years, finding partners and resources to help me along the way.
 
-My seminary classes were based on the J. Gresham Machen's classic (and wonderfully concise/dense) _New Testament Greek for Beginners_ (1923). I bought Bill Mounce's text _Basics of Biblical Greek_ (1993) in 2000, after not having achieved my goals in the classroom. As I understand it, Mounce has something of a Computer Science background himself, as do I. His grammar is all about reducing memorization to the bare bones minimum, and understanding the rules about _how the language works_ instead. This appeals to me.
+My seminary classes were based on J. Gresham Machen's classic (and wonderfully concise/dense) _New Testament Greek for Beginners_ (1923). I bought Bill Mounce's text _Basics of Biblical Greek_ (1993) in 2000, after not having achieved my goals in the classroom. As I understand it, Mounce has something of a Computer Science background himself, as do I. His grammar is all about reducing memorization to the bare bones minimum, and understanding the rules about _how the language works_ instead. This appeals to me.
 
 In 2017 or so I became aware that Mounce had recorded video lectures for _BBG_. A few years later, I bought them: they come on a USB stick (straight from Mounce himself?). But who has time to watch videos in the midst of life and work?
 
