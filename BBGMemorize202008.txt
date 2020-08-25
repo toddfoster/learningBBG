@@ -91,3 +91,20 @@ Master Verb Chart:|2nd Future Passive	- AP ησ ο/ε 1P γραφήσομαι
 Signs of Future Tense	σ tense formative;|liquid εσ contracts | with PA ending + circumflex
 Signs of Aorist Tense	σα tense formative;|Liquid α|Passive: θη / η|(2nd Aor = Impf w/ Aor stem)
 Signs of Perfect Tense	reduplication|Pf Active = κα t.f.|2nd Pf A = α tense formative
+All / every|paradigm	πᾶς πᾶσα πᾶν, παντός πάσησ παντός|παντί πάσῃ παντί, πάντα πᾶσαν πᾶν|πάντες πᾶσαι πάντα, πάντων πασῶν πάντων|πᾶσι πάσαις πᾶσι, πάντασ πάσας πάντα
+I carry, bear|word & three stems	φέρω|*φερ  *οι  *ενεχ
+Negate verbs vs. participles	verbs: οὐ|participles: μή
+Pres. Part. εἰμί	ὢν  οὖσα  ὄν|ὄντος  οὔσης  ὄντος|ὄντι  οὔσῃ  ὄντι|ὄντα  οὖσαν  ὄν|----|ὄντες  οὖσαι  ὄντα|ὄντων  οὐσῶν  ὄντων
+PA Participle | six forms	ων  ουσα  ον|οντος  οουσης  οντος
+PM/P Participle | six forms	ομενος  ομενη  ομενον|ομενου  ομενησ  ομενου
+AA Participle | six forms	σας  σασα  σαν|σαντος  σασης  σαντος
+AM Participle | six forms	σαμενος  σαμενη  σαμενον|σαμενου  σαμενησ  σαμενου
+AP Participle | six forms	θεις  θεισα  θεν|θεντος  θεισης  θεντος
+2AA Participle | six forms	ων  ουσα  ον|οντος  ουσης  οντος
+2AM Participle | six forms	ομενος  ομενη  ομενον|ομενου  ομενης  ομενου
+2AP Participle | six forms	εις  εισα  εν|εντος  εισης  εντος
+How to differentiate|adverbial|vs. adjectival|participles?	All adverbial participles |are anarthrous.| |Adjectival participles |are usually articular.
+PfA Participle | six forms	κως  κυια  κος|κοτος  κυιας  κοτος
+PfM/P Participle | six forms	μενος  μενη  μενον|μενου  μενης  μενου
+Genitive Absolute	Participial phrase,|in genitive,|that stands apart|from the sentence.
+Periphrastic construction	εἰμί + present participle
