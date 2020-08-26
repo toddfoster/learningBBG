@@ -16,19 +16,19 @@
 τούς 	Art. APM
 τάς 	Art. APF
 Nouns ντ + σ	ντ + σ → σ
-Nouns ending in -ς	1st/2nd: NSM  GSF  APF |3rd: NSM
+Nouns ending in -ς	Spread:| NSM(1&3) | GSF | APF
 Nouns with no ending	1st/2nd: NSF |3rd: NSF/N ASN
-Nouns ending in -υ	1st/2nd: GSM/N |3rd:
-Nouns ending in -ος	1st/2nd:  |3rd: GSM/F/N
-Nouns ending in -ι	1st/2nd: DSM/F/N  NPM/F |3rd: DSM/F/N
-Nouns ending in -ν	1st/2nd: NSN ASM/F/N |3rd: ASM/F alt.
-Nouns ending in -α	1st/2nd: NPN  APN |3rd: ASM/F|  NPN  APN
-Nouns ending in -ες	1st/2nd:  |3rd: NPM/F
-Nouns ending in -ων	1st/2nd: GPM/F/N |3rd: GPM/F/N
-Nouns ending in -ις	1st/2nd: DPM/F/N |3rd:
-Nouns ending in -σι	1st/2nd: |3rd: DPM/F/N
-Nouns ending in -υς	1st/2nd: APM |3rd:
-Nouns ending in -ας	1st/2nd:  |3rd: APM/F
+Nouns ending in -υ	GSM/N
+Nouns ending in -ος	GSM/F/N
+Nouns ending in -ι	All Dative Singular|+ NPM/F
+Nouns ending in -ν	Spread: NSN|ASM/F/N
+Nouns ending in -α	Spread: N/APN|Sometimes ASM/F (3rd)
+Nouns ending in -ες	NPM/F
+Nouns ending in -ων	GPM/F/N
+Nouns ending in -ις	DPM/F/N
+Nouns ending in -σι	DPM/F/N
+Nouns ending in -υς	APM
+Nouns ending in -ας	APM/F
 Noun Rule #1 (declensions)	Declensions: |1st=-α -η |2nd=-ο |3rd=consonant
 Noun Rule #2 (neuter)	Neuter Nominative = Accusative
 Noun Rule #3 |(neuter plural)	Almost all NPN APN = -α
@@ -41,14 +41,14 @@ Noun Rule #8 (τ)	-τ cannot stand
 ἐκεῖνος|function and paradigm	  demonstrative pronoun: "that"|ἐκεῖνος ἐκείνη ἐκεῖνο|ἐκείνου ἐκείνης ἐκείνου
 ὃς|function and paradigm	  relative pronoun: "who/which/that"|ὃς ἣ ὃ|οὗ ἧς οὗ
 Present (Primary) Active|paradigm & true endings	λύω, λύεις, λύει|λύομεν, λύετε, λύουσι(ν)| (-, -ς, -ι|-μεν, -τε, -νσι)
-Contract Rule #1	  οε / εο / οο → ου
-Contract Rule #2	  εε → ει
-Contract Rule #3	  _ + ο/ω → ω
-Contract Rule #4	  α + ε → α
-Contract Rule #5	  ε + α → η
-Contract Rule #6	  οει → οι
-Contract Rule #7	  Diphthongs:|a. Match? Simplify!|b. No match? contract,|drop υ| subscript ι
-Contract Rule #8	  Contracts use endings from PAI form
+Contract Rule #1 (οε)	  οε / εο / οο → ου
+Contract Rule #2 (εε)	  εε → ει
+Contract Rule #3 (ο/ω)	  _ + ο/ω → ω
+Contract Rule #4 (αε)	  α + ε → α
+Contract Rule #5 (εα)	  ε + α → η
+Contract Rule #6 (οει)	  οει → οι
+Contract Rule #7 (Diph)	  Diphthongs:|a. Match? Simplify!|b. No match? contract,|drop υ| subscript ι
+Contract Rule #8 (endings)	  Contracts use endings from PAI form
 Meaning, paradigm οἶδα	  I know, understand|οἶδα, οἶδας, οἶδε(ν)|οἲδαμεν, οἲδατε, οἲδασιν
 Present (Primary) Passive|paradigm & true endings	λύομαι, λύῃ, λύεται|λυόμεθα, λύεσθε, λύονται| (μαι, σαι, ται,|μεθα, σθε, νται)
 Deponent Verb	 M/P in form|active in meaning|(lexical form is M/P: -ομαι)
@@ -94,7 +94,7 @@ Signs of Perfect Tense	reduplication|Pf Active = κα t.f.|2nd Pf A = α tense f
 All / every|paradigm	πᾶς πᾶσα πᾶν, παντός πάσησ παντός|παντί πάσῃ παντί, πάντα πᾶσαν πᾶν|πάντες πᾶσαι πάντα, πάντων πασῶν πάντων|πᾶσι πάσαις πᾶσι, πάντασ πάσας πάντα
 I carry, bear|word & three stems	φέρω|*φερ  *οι  *ενεχ
 Negate verbs vs. participles	verbs: οὐ|participles: μή
-Pres. Part. εἰμί	ὢν  οὖσα  ὄν|ὄντος  οὔσης  ὄντος|ὄντι  οὔσῃ  ὄντι|ὄντα  οὖσαν  ὄν|----|ὄντες  οὖσαι  ὄντα|ὄντων  οὐσῶν  ὄντων|oὖσι(ν)  οὔσαις  οὖσι(ν)|ὄντας  οὔσας  ὄντα
+Pres. Act. Part. εἰμί	ὢν  οὖσα  ὄν|ὄντος  οὔσης  ὄντος|ὄντι  οὔσῃ  ὄντι|ὄντα  οὖσαν  ὄν|----|ὄντες  οὖσαι  ὄντα|ὄντων  οὐσῶν  ὄντων|oὖσι(ν)  οὔσαις  οὖσι(ν)|ὄντας  οὔσας  ὄντα
 PA Participle | six forms	ων  ουσα  ον|οντος  οουσης  οντος
 PM/P Participle | six forms	ομενος  ομενη  ομενον|ομενου  ομενησ  ομενου
 AA Participle | six forms	σας  σασα  σαν|σαντος  σασης  σαντος
@@ -108,3 +108,20 @@ PfA Participle | six forms	κως  κυια  κος|κοτος  κυιας  κο
 PfM/P Participle | six forms	μενος  μενη  μενον|μενου  μενης  μενου
 Genitive Absolute	Participial phrase,|in genitive,|that stands apart|from the sentence.
 Periphrastic construction	εἰμί + present participle
+PAI εἰμί	εἰμί  εἶ  ἐστί(ν)|ἐσμέν  ἐστέ  εἰσἰ(ν)
+3 signs of subjunctive	1. ἵνα or ἔαν clause - or any ἄν|2. lengthened connecting vowel (ω/η)|3. Unaugmented in aorist; uses μή
+ὀυ μή + subjunctive	Emphatic NO
+Present Infinitive|Endings	ειν  εσθαι  εσθαι
+Aorist Infinitive|Endings	σαι  σασθαι  θηναι
+2nd Aorist Infinitive|Endings	ειν  εσθαι  ηναι
+Perfect Infinitive|Endings	κεναι  σθαι  σθαι
+P Infinitive εἰμί	εἴναι
+διὰ τὸ (inf.)	because he...
+εἰς τὸ (inf.)	in order that he...
+ἐν τὸ (inf.)	when he...
+μετὰ τὸ (inf.)	after he...
+πρὸ τὸ (inf.)	before he...
+πρὸς τὸ (inf.)	in order that he...
+Pres. Inf. λύω (A/M/P)	λύειν  λύεσθαι  λύεσθαι
+Aor. Inf. λύω (A/M/P)	λῦσαι  λὐσασθαι  λυθῆναι
+Pf. Inf. λύω (A/M/P)	λελυκἐναι  λελύσθαι  λελύσθαι
