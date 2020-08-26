@@ -73,7 +73,7 @@ Master Verb Chart:|Liquid Future Active	  - FA εσ ο/ε PA κρινῶ
 Master Verb Chart:|Liquid Future Middle	  - FA εσ ο/ε PP κρινοῦμαι
 Imperfect (Secondary) Active|paradigm & true endings  	ἔλυον, ἔλυες, ἔλυε|ἐλύομεν, ἐλύετε, ἔλυον|(ν, ς, -, μεν, τε, ν)
 Imperfect (Secondary) Passive|paradigm & true endings  	ἐλυόμην, ἐλύου,ἐλύετο|ἐλυόμεθα, ἐλύεσθε, ἐλύοντο|(μην, σο, το, μεθα, σθε, ντο)
-Impf. εἰμί	I was|ἤμην, ἦς, ἦν|ἦμην, ἦτε, ἦσαν
+Impf. εἰμί	I was|ἤμην, ἦς, ἦν|ἦμεν, ἦτε, ἦσαν
 Master Verb Chart:|Imperfect Active	  ε P - ο/ε PA ἔλυον
 Master Verb Chart:|Imperfect Middle/Passive	ε P - ο/ε PP ἐλυόμην
 Master Verb Chart:|Aorist Active	ε AA σα - 2A ἔλuσα
@@ -94,11 +94,11 @@ Signs of Perfect Tense	reduplication|Pf Active = κα t.f.|2nd Pf A = α tense f
 All / every|paradigm	πᾶς πᾶσα πᾶν, παντός πάσησ παντός|παντί πάσῃ παντί, πάντα πᾶσαν πᾶν|πάντες πᾶσαι πάντα, πάντων πασῶν πάντων|πᾶσι πάσαις πᾶσι, πάντασ πάσας πάντα
 I carry, bear|word & three stems	φέρω|*φερ  *οι  *ενεχ
 Negate verbs vs. participles	verbs: οὐ|participles: μή
-Pres. Part. εἰμί	ὢν  οὖσα  ὄν|ὄντος  οὔσης  ὄντος|ὄντι  οὔσῃ  ὄντι|ὄντα  οὖσαν  ὄν|----|ὄντες  οὖσαι  ὄντα|ὄντων  οὐσῶν  ὄντων
+Pres. Part. εἰμί	ὢν  οὖσα  ὄν|ὄντος  οὔσης  ὄντος|ὄντι  οὔσῃ  ὄντι|ὄντα  οὖσαν  ὄν|----|ὄντες  οὖσαι  ὄντα|ὄντων  οὐσῶν  ὄντων|oὖσι(ν)  οὔσαις  οὖσι(ν)|ὄντας  οὔσας  ὄντα
 PA Participle | six forms	ων  ουσα  ον|οντος  οουσης  οντος
 PM/P Participle | six forms	ομενος  ομενη  ομενον|ομενου  ομενησ  ομενου
 AA Participle | six forms	σας  σασα  σαν|σαντος  σασης  σαντος
-AM Participle | six forms	σαμενος  σαμενη  σαμενον|σαμενου  σαμενησ  σαμενου
+AM Participle | six forms	σαμενος  σαμενη  σαμενον|σαμενου  σαμενης  σαμενου
 AP Participle | six forms	θεις  θεισα  θεν|θεντος  θεισης  θεντος
 2AA Participle | six forms	ων  ουσα  ον|οντος  ουσης  οντος
 2AM Participle | six forms	ομενος  ομενη  ομενον|ομενου  ομενης  ομενου
