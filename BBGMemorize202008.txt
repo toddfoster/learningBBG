@@ -132,9 +132,9 @@ PM/PImpv 2S λύω	λύου
 AAImpv 2S λύω	λῦσον
 AMImpv 2S λύω	λῦσαι
 APImpv 2S λύω	λύθητι
-2AAImpv 2S λαμβάνω	λάβε
-2AMImpv 2S γίνομαι	γένου
-2APImpv 2S γράφω	γράφηθι
+2AAImpv 2S λείπω	λίπε
+2AMImpv 2S λείπω	λιποῦ
+2APImpv 2S γράφω	γράφητι
 μι-verb Rules #1 (redup)	Present stem reduplicates first letter with ι
 μι-verb Rules #2 (c.v.)	No connecting vowel in Indicative
 μι-verb Rules #3 (endings)	PAI endings: -μι  -ς  -σι  -μεν  -τε  -ασι
