@@ -125,3 +125,23 @@ P Infinitive εἰμί	εἴναι
 Pres. Inf. λύω (A/M/P)	λύειν  λύεσθαι  λύεσθαι
 Aor. Inf. λύω (A/M/P)	λῦσαι  λὐσασθαι  λυθῆναι
 Pf. Inf. λύω (A/M/P)	λελυκἐναι  λελύσθαι  λελύσθαι
+Active, Aorist Passive Imperative Endings	?  τω  τε  τωσαν
+Middle, Middle/Passive Imperative Endings	?  σθω  σθε  σθωσαν
+PAImpv 2S λύω	λῦε
+PM/PImpv 2S λύω	λύου
+AAImpv 2S λύω	λῦσον
+AMImpv 2S λύω	λῦσαι
+APImpv 2S λύω	λύθητι
+2AAImpv 2S λαμβάνω	λάβε
+2AMImpv 2S γίνομαι	γένου
+2APImpv 2S γράφω	γράφηθι
+μι-verb Rules #1 (redup)	Present stem reduplicates first letter with ι
+μι-verb Rules #2 (c.v.)	No connecting vowel in Indicative
+μι-verb Rules #3 (endings)	PAI endings: -μι  -ς  -σι  -μεν  -τε  -ασι
+μι-verb Rules #4 (vowels)	Stem vowels ablaut
+μι-verb Rules #5 (t.f.)	Aorist tense formative = -κα
+Conjugate PAI δίδωμι	δίδωμι  δίδως  δίδωσι(ν)  |δίδομε  δίδοτε  διδόασι(ν)
+Conjugate ImpfAI δίδωμι	ἐδίδουν  ἐδίδους  ἐδίδοu  |ἐδίδομεν  ἐδίδοτε  ἐδίδοσαν
+Conjugate FAI δίδωμι	δώσω  δώσεις  δώσει  |δώσομεν  δώσετε  δώσοθσι(ν)
+Conjugate AAI δίδωμι	ἔδωκα  ἔδωκας  ἔδωκε(ν)  |ἐδώκαμεν  ἐδώκατε  ἔδωκαν
+Conjugate PfAI δίδωμι	δέδωκα  δέδωκας  δέδωκε(ν)  |δεδώκαμεν  δεδώκατε  δέδωκαν
