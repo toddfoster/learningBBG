@@ -55,12 +55,11 @@ Deponent Verb	 M/P in form|active in meaning|(lexical form is M/P: -ομαι)
 Master Verb Chart:|Present Active	  - P - ο/ε PA λύω
 Master Verb Chart:|Present Middle/Passive	- P - ο/ε PP λύομαι
 Master Verb Chart:|Future Active	  - FA σ ο/ε PA λύσω
-Master Verb Chart:|Future Middle	  - FA σ ο/ε PP πορεύσομαι
+Master Verb Chart:|Future Middle	  - FA σ ο/ε PP λύσομαι
 Future εἰμί 	  Middle Form|ἒσομαι, ἒσῃ, ἒσται|ἐσόμεθα, ἒσεσθε, ἒσονται
 Def. Contract Vowel	Stem ending with α, ε, ο
 Contract vowel before|tense formative	 lengthens|α/ε → η|ο → ω|always gets accent!
 Connecting Vowel|in Indicative Voice	 ο for endings μ- / ν-|ε for anything else
-Pattern 1 Verbs	 Verbs where |root = pres. tense stem|  = fut. tense stem|Stems end in: 1a:-ι / -υ| 1b: contract vowels -α / -ε / -ο| 1c: stops
 Liquid Verbs	 Stem ends in:|-λ, -μ, -ν, -ρ
 Intervocalic σ	 σ standing between two vowels|often drops out|e.g., fut. tense form. for liquid vbs
 ἔρχομαι	  Pres: *ερχ|Impf: *ελεσθ| I come, go
@@ -73,7 +72,7 @@ Master Verb Chart:|Liquid Future Active	  - FA εσ ο/ε PA κρινῶ
 Master Verb Chart:|Liquid Future Middle	  - FA εσ ο/ε PP κρινοῦμαι
 Imperfect (Secondary) Active|paradigm & true endings  	ἔλυον, ἔλυες, ἔλυε|ἐλύομεν, ἐλύετε, ἔλυον|(ν, ς, -, μεν, τε, ν)
 Imperfect (Secondary) Passive|paradigm & true endings  	ἐλυόμην, ἐλύου,ἐλύετο|ἐλυόμεθα, ἐλύεσθε, ἐλύοντο|(μην, σο, το, μεθα, σθε, ντο)
-Impf. εἰμί	I was|ἤμην, ἦς, ἦν|ἦμεν, ἦτε, ἦσαν
+Impferfect εἰμί	I was|ἤμην, ἦς, ἦν|ἦμεν, ἦτε, ἦσαν
 Master Verb Chart:|Imperfect Active	  ε P - ο/ε PA ἔλυον
 Master Verb Chart:|Imperfect Middle/Passive	ε P - ο/ε PP ἐλυόμην
 Master Verb Chart:|Aorist Active	ε AA σα - 2A ἔλuσα
@@ -140,8 +139,8 @@ APImpv 2S λύω	λύθητι
 μι-verb Rules #3 (endings)	PAI endings: -μι  -ς  -σι  -μεν  -τε  -ασι
 μι-verb Rules #4 (vowels)	Stem vowels ablaut
 μι-verb Rules #5 (t.f.)	Aorist tense formative = -κα
-Conjugate PAI δίδωμι	δίδωμι  δίδως  δίδωσι(ν)  |δίδομε  δίδοτε  διδόασι(ν)
+Conjugate PAI δίδωμι	δίδωμι  δίδως  δίδωσι(ν)  |δίδομεν  δίδοτε  διδόασι(ν)
 Conjugate ImpfAI δίδωμι	ἐδίδουν  ἐδίδους  ἐδίδοu  |ἐδίδομεν  ἐδίδοτε  ἐδίδοσαν
-Conjugate FAI δίδωμι	δώσω  δώσεις  δώσει  |δώσομεν  δώσετε  δώσοθσι(ν)
+Conjugate FAI δίδωμι	δώσω  δώσεις  δώσει  |δώσομεν  δώσετε  δώσουσι(ν)
 Conjugate AAI δίδωμι	ἔδωκα  ἔδωκας  ἔδωκε(ν)  |ἐδώκαμεν  ἐδώκατε  ἔδωκαν
 Conjugate PfAI δίδωμι	δέδωκα  δέδωκας  δέδωκε(ν)  |δεδώκαμεν  δεδώκατε  δέδωκαν
